@@ -97,7 +97,8 @@ endmodule
 ![image](https://github.com/PYNAMVINODH/JKFLIPFLOP-USING-IF-ELSE/assets/145742678/8209cf91-592d-422b-8333-ea8a9c178b80)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/PYNAMVINODH/JKFLIPFLOP-USING-IF-ELSE/assets/145742678/4c9b6867-b6cc-4cc0-bf63-4eca23b5bed5)
+![image](https://github.com/PYNAMVINODH/JKFLIPFLOP-USING-IF-ELSE/assets/145742678/3f8de336-4619-4c67-ba05-094f57545aae)
+
 
 **RESULTS**
 Thus,Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
